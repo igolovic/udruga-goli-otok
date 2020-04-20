@@ -1,0 +1,10 @@
+#leftMenu{ padding:0px; margin:0px; background-color:white}
+li.lmItem{ background-color:#8795A8; margin-top:3px; list-style-image:none; list-style-type:none; text-align:left; width:190px; height:30px; line-height:30px}
+li.lmItem2, li.lmItemHover{ background-color:#001E4B; margin-top:3px; list-style-image:none; list-style-type:none; text-align:left; width:190px; height:30px; line-height:30px}
+div.m{ position:absolute; background-color:#8795A8; width:200px; border:1px #001E4B solid}
+a.lmNoSubMenu { outline:none; width:175px; height:30px; display:inline-block; padding-left:15px; font-weight:bold; font-family:Trebuchet MS; color:white; font-size:12px; text-decoration:none }
+a.lmNoSubMenu:hover { background-color:#001E4B; height:30px; outline:none; border-bottom:1px white solid; padding-left:15px; font-weight:bold; font-family:Trebuchet MS; color:white; font-size:12px; text-decoration:none }
+a.lm { outline:none; width:175px; height:30px; display:inline-block; padding-left:15px; font-weight:bold; font-family:Trebuchet MS; color:white; font-size:12px; text-decoration:none }
+a.lm:hover { background-color:transparent; height:30px; outline:none; border-bottom:1px white solid; padding-left:15px; font-weight:bold; font-family:Trebuchet MS; color:white; font-size:12px; text-decoration:none }
+a.mi{ text-decoration:none; font-size:12px; outline:none; padding-left:10px; width:190px; height:28px; display:inline-block; color:white; line-height:28px}
+a.mi:hover{ background-color:#001E4B; color:white}

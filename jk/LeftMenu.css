@@ -1,0 +1,52 @@
+.roll, .roll-active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000;
+	text-align: left;
+	width: 130px;
+	height: 19px;
+	padding: 2px 0 0 15px;
+	text-decoration: none;
+	line-height: 14px;
+	font-weight: bold;
+	display: block;
+	float: right;
+}
+
+.roll {
+	background: transparent url(../../Images/roll.gif) no-repeat 0 0;
+}
+
+.roll:hover {
+	color: #fff;
+	background-image: url(../../Images/rollon.gif);
+	text-decoration: none;
+}
+.roll-active {
+	color: #fff;
+	background: transparent url(../../Images/rollon.gif) no-repeat 0 0;
+}
+* html .roll,
+* html .roll-active{
+	width: 145px;
+	margin: 0 0 1px 0;
+}
+
+.roll-active:hover {
+	color: #FFFFFF;
+	background-image: url(../../Images/rollon.gif);
+	background-repeat: no-repeat;
+	text-decoration: none;
+}
+
+
+.formaselect {
+	FONT-SIZE: 10px;
+	MARGIN: 0px;
+	COLOR: white;
+	FONT-FAMILY: Arial, Verdana, Tahoma;
+	BACKGROUND-COLOR: #505050;
+	TEXT-DECORATION: none;
+	border: 1px solid #00FFFF;
+
+}

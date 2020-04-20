@@ -1,0 +1,7 @@
+#gShade{ left:0px; top:0px; width:100%; display:none; background:#000000 url(res/bckg.png) repeat; position:absolute; z-index:100}
+#gMsg{ height:30px; opacity:0.7; filter:alpha(opacity=70); position:absolute; z-index:101; background-color:black }
+#gMsgText{ height:30px; text-align:center; font-weight:bold; position:absolute; z-index:102; color:white;}
+img.gCache{position:absolute; z-index:100; cursor:pointer; border:5px white solid}
+img.g{ cursor:pointer; margin-left:auto; margin-right:auto; outline:none; max-height:325px; max-width:500px; opacity:1; filter:alpha(opacity=100)}
+a.gn{ outline:none; font-family:Trebuchet MS; font-size:14px; color:#001E4B; text-decoration:none; font-weight:bold}
+a.gn:hover{background-color:transparent; }

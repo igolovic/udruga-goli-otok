@@ -1,0 +1,497 @@
+.txtispodfoto
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+}
+.naslov
+{
+	font-family: "Times New Roman" , Times, serif;
+	font-size: 22px;
+	font-style: italic;
+	font-weight: bold;
+	color: #AE0018;
+}
+.nastavakclanka
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: italic;
+}
+.txtispodnaslova
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #6A6A6A;
+}
+.pocetaktxtaispodnaslova
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #323232;
+	padding-left: 3px;
+}
+.boldpodnaslovtxt
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #000000;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-top-color: #6A6A6A;
+	border-right-color: #6A6A6A;
+	border-bottom-color: #6A6A6A;
+	border-left-color: #6A6A6A;
+}
+.brojevi
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #AE0018;
+	padding-right: 2px;
+}
+.bojasrednjekolone
+{
+	background-color: #F0F0F0;
+}
+.borderkolona
+{
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: solid;
+	border-top-color: #6A6A6A;
+	border-right-color: #6A6A6A;
+	border-bottom-color: #6A6A6A;
+	border-left-color: #6A6A6A;
+}
+.borderkolonaleft
+{
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: solid;
+	border-top-color: #6A6A6A;
+	border-right-color: #6A6A6A;
+	border-bottom-color: #6A6A6A;
+	border-left-color: #6A6A6A;
+}
+.borderkolonaright
+{
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #6A6A6A;
+	border-right-color: #6A6A6A;
+	border-bottom-color: #6A6A6A;
+	border-left-color: #6A6A6A;
+}
+.anketabox
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-top-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+	background-color: #FAE7B3;
+}
+.txtupitnik
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #404040;
+	padding-left: 3px;
+	padding-top: 3px;
+}
+.brojidatum
+{
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	padding-left: 4px;
+	color: #FFFFFF;
+}
+.ostaleankete
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #FDF2D3;
+	background-color: #AE0018;
+}
+.bojakolonadoledesno
+{
+	background-color: #FDF2D3;
+}
+.procitajteizproslogbroja
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+}
+.temestarogbroja
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+.temestarogbrojacrvena
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #AE0018;
+	font-weight: bold;
+}
+.linkovidole
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #6A6A6A;
+}
+.desnorubrika-polje
+{
+	font-size: 10px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-image: url(../../Images/tamnozuta-strelica.gif);
+	background-position: left center;
+	background-repeat: no-repeat;
+	background-color: #ae0018;
+	border-right: #000000 0px;
+	border-top: #000000 0px;
+	border-left: #000000 4px solid;
+	border-bottom: #6a6a6a 0px solid;
+	color: #FFFFFF;
+	padding-top: 0px;
+	padding-left: 3px;
+	padding-bottom: 0px;
+}
+.desnorubrika-text
+{
+	font-size: 11px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.desnokomentari-polje
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: italic;
+	color: #000000;
+	background-color: #F1F1F1;
+	border-top-width: 4px;
+	border-right-width: 4px;
+	border-bottom-width: 2px;
+	border-left-width: 4px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #6A6A6A;
+	border-left-color: #000000;
+	padding-left: 3px;
+	padding-bottom: 3px;
+}
+.borderdole
+{
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #636D6F;
+	border-right-color: #636D6F;
+	border-bottom-color: #636D6F;
+	border-left-color: #636D6F;
+}
+.sadrzaj
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #000000;
+	padding-left: 3px;
+}
+.borddole
+{
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-top-color: #6A6A6A;
+	border-right-color: #6A6A6A;
+	border-bottom-color: #6A6A6A;
+	border-left-color: #6A6A6A;
+}
+
+.allborder
+{
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #6A6A6A;
+	border-right-color: #6A6A6A;
+	border-bottom-color: #6A6A6A;
+	border-left-color: #6A6A6A;
+}
+
+.gorebord
+{
+	border-top: 1px solid #000000;
+	border-right: 1px none #000000;
+	border-bottom: 1px none #000000;
+	border-left: 1px none #000000;
+}
+a.st:hover
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #FDF2D3;
+}
+.globus-border-dole
+{
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-top-color: #6A6A6A;
+	border-right-color: #6A6A6A;
+	border-bottom-color: #6A6A6A;
+	border-left-color: #6A6A6A;
+}
+.bojagodina
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #AE0018;
+	text-decoration: none;
+}
+.brojarhive
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #404040;
+	background-color: #FDF2D3;
+	font-weight: bold;
+	height: 17px;
+	width: 70px;
+}
+a.arhiva:link
+{
+	text-decoration: none;
+}
+menu
+{
+	background-image: url(../../Images/arhiva/brojac.jpg);
+}
+button
+{
+	background-image: url(../../Images/arhiva/brojac.jpg);
+}
+
+/****** Clanak *******/
+
+.straniceimgs
+{
+	border-right: red 1px solid;
+	border-top: red 1px solid;
+	border-left: red 1px solid;
+	border-bottom: red 1px solid;
+	text-decoration: line-through;
+}
+.nadnaslov
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #AE0018;
+	text-align: left;
+	vertical-align: middle;
+	text-indent: 5px;
+}
+
+.txtclanakpodnaslovnaziv
+{
+	font-weight: bold;
+	font-size: 11px;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding-bottom: 3px;
+	margin-bottom: 3px;
+}
+
+
+.txtclanakpodnaslovtext
+{
+	font-size: 10px;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+.txtclanakuvod
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+}
+.txtclanak
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+.txtclanaktxt
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+.bulletlink
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #404040;
+}
+.fotoplaceholder
+{
+	background-color: #FADE92;
+}
+.fotodesno
+{
+	background-color: #FADE92;
+	border: 1px solid #AEAEAE;
+}
+
+/****** Autori *******/
+.autorivrsta
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #ae0018;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-top-color: #6A6A6A;
+	border-right-color: #6A6A6A;
+	border-bottom-color: #ae0018;
+	border-left-color: #6A6A6A;
+}
+
+/****** Pretrazivanje *******/
+.pretrazivanjenaslov
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	list-style-type: square;
+	line-height: 15px;
+}
+
+
+.pretrazivanjestranice
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #CCCCCC;
+	list-style-type: square;
+	text-decoration: none;
+}
+
+.lineGreen { display:block; width: 600px; background-image:url(../../Images/prilozi/life06/greenLine.gif); background-repeat:repeat-x;}
+
+.lineRed { display:block; width: 580px; height:2px; background-image:url(../../Images/prilozi/life06/redLine.gif); background-repeat:repeat-x; margin-left: 10px; margin-top:-10px; background-position:top; margin-bottom:15px; }
+*html .lineRed { margin-top:0px; margin-bottom:0px;}
+.lineGray {display:block; width: 2px; height:36px; background-image:url(../../Images/prilozi/life06/grayLine.gif); background-repeat: repeat; }
+.lineRosa { display:block; width:2px; height:20px; background-color: #F3BFC4; }
+.styleRedBig { font-size:310%; color:#DD0106; font-family:Arial, Helvetica, sans-serif;}
+.styleBlueBig { font-size:240%; color:#182286; font-family:Arial, Helvetica, sans-serif; font-weight:bold; }
+.styleGreenBig { font-size:16px; color:#618019; font-family:Arial, Helvetica, sans-serif; font-weight:bold;}
+.styleRedSmall { font-size:28px; color:#DD0106; font-family:Arial, Helvetica, sans-serif; font-weight:bold; }
+.lineGrayHor { float:left; width:300px; height: 2px; background-image: url(../../Images/prilozi/life06/grayLineHor.gif); background-repeat:repeat-x; background-position:top; margin-bottom:13px; margin-left:10px;}
+
+*html .lineGrayHor { margin-bottom:0px; margin-left:5px;}
+.Orange { font-size:10px; color:#F47A00;}
+.RedCol { font-size:10px; color:#C1242B;}
+.Orange14 { font-size:14px; color: #ED6B00; }
+.White14 { font-size:14px; color: #ffffff; }
+.ogl { display:block; float: left; width:250px; height:140px; background-color:#FFFFFF; margin-left:200px;}
+*html .ogl { margin-left:100px;}
+
+.crvNas { font-size:14px; color:#E50001; font-weight:bold; margin-top:5px;}
+.crniNas { font-size:14px; color:#000000;}
+.lineGrayNas { display:block; float:left; width:240px; height: 2px; background-image: url(../../Images/prilozi/life06/grayLineHor.gif); background-repeat:repeat-x; background-position:top; margin-left:5px; margin-top: 5px; margin-bottom:12px; }
+*html .lineGrayNas { margin-bottom:3px;}
+.zelTxt { font-size: 14px; color:#70A500; margin-left:15px;}
+.narTxt { font-size: 14px; color:#F97600;  margin-left:36px;}
+.sivTxt { font-size: 14px; color:#CE8C56;  margin-left:36px;}
+.plaTxt { font-size: 14px; color:#003C8B;  margin-left:46px;}
+.crniTxt { font-size:14px; color:#000000;  margin-left:10px;}
+.okomSiv { display: block; float:left; width:2px; height:7px; background-image:url(../../Images/prilozi/life06/grayLine.gif); background-repeat:repeat-y; background-position:top;}
