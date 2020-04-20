@@ -90,7 +90,7 @@ switch($task)
 	
 			$headers  = 'MIME-Version: 1.0' . "\r\n";
 			$headers .= 'Content-type: text/html; charset=utf-8' . "\r\n";
-			if(mail("dragan.besker@gmail.com", "Udruga Goli otok - nova poruka", $message, $headers))
+			if(mail("dummy@dummy.dummy", "Udruga Goli otok - nova poruka", $message, $headers))
 			{
 				$smarty->assign("mailMessage", "Poruka je uspješno poslana, hvala.");
 				$smarty->assign("mailMsgVisible", "inline-block");

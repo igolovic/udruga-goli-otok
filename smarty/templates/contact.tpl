@@ -10,7 +10,7 @@ Ukoliko ste zainteresirani za organizirani posjet Golom otoku i Sv. Grguru, javi
 Za Vaše upite ili narudžbu knjige Ivana Kosića "Goli otok, najveći Titov konclogor"<br />
 javite se na donju adresu
 <p>
-email: <a href="mailto://udruga.goli.otok@gmail.com">udruga.goli.otok@gmail.com</a>
+email: <a href="mailto://dummy@dummy.dummy">dummy@dummy.dummy</a>
 </p>
 <p>
 ili putem kontakt obrasca:
